@@ -1,0 +1,309 @@
+@charset "UTF-8";
+* {
+  outline: 0 !important;
+  -webkit-backface-visibility: hidden !important;
+          backface-visibility: hidden !important;
+}
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3966984, 2020-10-30T05:57:03-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed webFonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Izmir-Hairline by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/hairline/
+ * 
+ * Webfont: Izmir-HairlineItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/hairline-italic/
+ * 
+ * Webfont: Izmir-Thin by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/thin/
+ * 
+ * Webfont: Izmir-ThinItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/thin-italic/
+ * 
+ * Webfont: Izmir-Extralight by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extralight/
+ * 
+ * Webfont: Izmir-ExtralightItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extralight-italic/
+ * 
+ * Webfont: Izmir-Light by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/light/
+ * 
+ * Webfont: Izmir-LightItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/light-italic/
+ * 
+ * Webfont: Izmir-Regular by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/regular/
+ * 
+ * Webfont: Izmir-RegularItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/regular-italic/
+ * 
+ * Webfont: Izmir-Medium by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/medium/
+ * 
+ * Webfont: Izmir-MediumItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/medium-italic/
+ * 
+ * Webfont: Izmir-Semibold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/semibold/
+ * 
+ * Webfont: Izmir-SemiboldItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/semibold-italic/
+ * 
+ * Webfont: Izmir-Bold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/bold/
+ * 
+ * Webfont: Izmir-BoldItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/bold-italic/
+ * 
+ * Webfont: Izmir-Extrabold by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extrabold/
+ * 
+ * Webfont: Izmir-ExtraboldItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extrabold-italic/
+ * 
+ * Webfont: Izmir-Heavy by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/heavy/
+ * 
+ * Webfont: Izmir-HeavyItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/heavy-italic/
+ * 
+ * Webfont: Izmir-Black by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/black/
+ * 
+ * Webfont: Izmir-BlackItalic by Ahmet Altun
+ * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/black-italic/
+ * 
+ * 
+ * webFonts copyright: Copyright (c) 2020 by Ahmet Altun. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+@font-face {
+  font-family: 'Izmir-HairlineItalic';
+  src: url("webFonts/Izmir-HairlineItalic/font.woff2") format("woff2"), url("webFonts/Izmir-HairlineItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Extralight';
+  src: url("webFonts/Izmir-Extralight/font.woff2") format("woff2"), url("webFonts/Izmir-Extralight/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Hairline';
+  src: url("webFonts/Izmir-Hairline/font.woff2") format("woff2"), url("webFonts/Izmir-Hairline/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-ThinItalic';
+  src: url("webFonts/Izmir-ThinItalic/font.woff2") format("woff2"), url("webFonts/Izmir-ThinItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Black';
+  src: url("webFonts/Izmir-Black/font.woff2") format("woff2"), url("webFonts/Izmir-Black/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-BlackItalic';
+  src: url("webFonts/Izmir-BlackItalic/font.woff2") format("woff2"), url("webFonts/Izmir-BlackItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-HeavyItalic';
+  src: url("webFonts/Izmir-HeavyItalic/font.woff2") format("woff2"), url("webFonts/Izmir-HeavyItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Extrabold';
+  src: url("webFonts/Izmir-Extrabold/font.woff2") format("woff2"), url("webFonts/Izmir-Extrabold/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-BoldItalic';
+  src: url("webFonts/Izmir-BoldItalic/font.woff2") format("woff2"), url("webFonts/Izmir-BoldItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Heavy';
+  src: url("webFonts/Izmir-Heavy/font.woff2") format("woff2"), url("webFonts/Izmir-Heavy/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Bold';
+  src: url("webFonts/Izmir-Bold/font.woff2") format("woff2"), url("webFonts/Izmir-Bold/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-SemiboldItalic';
+  src: url("webFonts/Izmir-SemiboldItalic/font.woff2") format("woff2"), url("webFonts/Izmir-SemiboldItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-MediumItalic';
+  src: url("webFonts/Izmir-MediumItalic/font.woff2") format("woff2"), url("webFonts/Izmir-MediumItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Semibold';
+  src: url("webFonts/Izmir-Semibold/font.woff2") format("woff2"), url("webFonts/Izmir-Semibold/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-ExtraboldItalic';
+  src: url("webFonts/Izmir-ExtraboldItalic/font.woff2") format("woff2"), url("webFonts/Izmir-ExtraboldItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Medium';
+  src: url("webFonts/Izmir-Medium/font.woff2") format("woff2"), url("webFonts/Izmir-Medium/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Regular';
+  src: url("webFonts/Izmir-Regular/font.woff2") format("woff2"), url("webFonts/Izmir-Regular/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-RegularItalic';
+  src: url("webFonts/Izmir-RegularItalic/font.woff2") format("woff2"), url("webFonts/Izmir-RegularItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-LightItalic';
+  src: url("webFonts/Izmir-LightItalic/font.woff2") format("woff2"), url("webFonts/Izmir-LightItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Light';
+  src: url("webFonts/Izmir-Light/font.woff2") format("woff2"), url("webFonts/Izmir-Light/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-ExtralightItalic';
+  src: url("webFonts/Izmir-ExtralightItalic/font.woff2") format("woff2"), url("webFonts/Izmir-ExtralightItalic/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Izmir-Thin';
+  src: url("webFonts/Izmir-Thin/font.woff2") format("woff2"), url("webFonts/Izmir-Thin/font.woff") format("woff");
+}
+
+.component-signin-card {
+  width: 512px;
+  height: 550px;
+  border-radius: 32px;
+  -webkit-box-shadow: 0 0 99px 0 rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 99px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  margin: 80px auto;
+  padding: 50px;
+}
+
+.form-title {
+  font-size: 38px;
+  text-align: left;
+  color: #474242;
+  font-family: 'Izmir-Extrabold';
+}
+
+.form-description {
+  font-family: 'Izmir-Semibold';
+  font-size: 17px;
+  text-align: left;
+  color: #474242;
+}
+
+.form-description-2 span {
+  font-family: 'Izmir-Medium';
+  font-size: 16px;
+  text-align: left;
+  color: #707070;
+}
+
+.form-description-2 a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #3f3f3f;
+  font-family: 'Izmir-Semibold';
+}
+
+.form-description-2 a:hover {
+  color: black;
+}
+
+.form-group {
+  margin-top: 35px;
+}
+
+.form-group .form-input {
+  width: 306px;
+  height: 45px;
+  border-radius: 22px;
+  -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.16);
+          box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  font-family: 'Izmir-Medium';
+  font-size: 17;
+  display: block;
+  padding: 0 16px;
+  position: relative;
+  margin-top: 25px;
+  border: 0px;
+}
+
+.form-group .form-input:nth-child(1) {
+  margin-top: 0;
+}
+
+.form-group .section-2 {
+  margin: 19px 0 0 0;
+}
+
+.form-group .section-2 a {
+  font-size: 14px;
+  color: #605F5F;
+  font-family: 'Izmir-Medium';
+  text-decoration: none;
+}
+
+.form-group .section-2 a:hover {
+  color: #3F3F3F;
+}
+
+.btn-div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.btn-div .btn-login {
+  width: 174px;
+  height: 64px;
+  font-size: 20px;
+  font-family: 'Izmir-Semibold';
+  border-radius: 32px;
+  text-align: center;
+  border: 3px solid #707070;
+  color: #707070;
+  margin: 40px 0 0 0;
+  background-color: #ffffff;
+  -webkit-transition: 500ms all;
+  transition: 500ms all;
+}
+
+.btn-div .btn-login:hover {
+  background-color: #707070;
+  color: #ffffff;
+}
+/*# sourceMappingURL=main.css.map */

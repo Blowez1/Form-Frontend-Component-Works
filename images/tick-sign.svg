@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.82" height="8.716" viewBox="0 0 10.82 8.716">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #656363;
+      }
+    </style>
+  </defs>
+  <path id="tick-sign" class="cls-1" d="M9.166,33.286l-5.41,5.409-2.1-2.1L0,38.246,3.756,42,10.82,34.94Z" transform="translate(0 -33.286)"/>
+</svg>
