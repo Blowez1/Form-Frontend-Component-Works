@@ -265,6 +265,9 @@
 
 .form-group .section-2 {
   margin: 19px 0 0 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .form-group .section-2 a {
@@ -294,16 +297,61 @@
   font-family: 'Izmir-Semibold';
   border-radius: 32px;
   text-align: center;
-  border: 3px solid #707070;
+  border: 3px solid #474242;
   color: #707070;
-  margin: 40px 0 0 0;
+  margin: 26px 0 0 0;
   background-color: #ffffff;
   -webkit-transition: 500ms all;
   transition: 500ms all;
 }
 
 .btn-div .btn-login:hover {
-  background-color: #707070;
+  background-color: #474242;
   color: #ffffff;
+}
+
+.tick-full {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 20px;
+  font-family: 'Izmir-Medium';
+  font-size: 15px;
+  color: #605F5F;
+}
+
+.tick-full .tick {
+  width: 24px;
+  height: 24px;
+  margin-right: 6px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+          box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+
+.tick-full .tick::after {
+  content: "";
+  width: 0;
+  height: 0;
+}
+
+.tick-full input {
+  width: 0;
+  height: 0;
+  position: absolute;
+  opacity: 0;
+}
+
+.tick-full input:checked + .tick::after {
+  width: 11px;
+  height: 9px;
+  background: url("/images/tick-sign.svg");
+  position: absolute;
+  top: 8px;
+  left: 7px;
 }
 /*# sourceMappingURL=main.css.map */
