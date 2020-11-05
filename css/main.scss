@@ -3,90 +3,6 @@
     backface-visibility: hidden !important;
 }
 
-/**
- * @license
- * MyFonts Webfont Build ID 3966984, 2020-10-30T05:57:03-0400
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed webFonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: Izmir-Hairline by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/hairline/
- * 
- * Webfont: Izmir-HairlineItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/hairline-italic/
- * 
- * Webfont: Izmir-Thin by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/thin/
- * 
- * Webfont: Izmir-ThinItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/thin-italic/
- * 
- * Webfont: Izmir-Extralight by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extralight/
- * 
- * Webfont: Izmir-ExtralightItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extralight-italic/
- * 
- * Webfont: Izmir-Light by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/light/
- * 
- * Webfont: Izmir-LightItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/light-italic/
- * 
- * Webfont: Izmir-Regular by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/regular/
- * 
- * Webfont: Izmir-RegularItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/regular-italic/
- * 
- * Webfont: Izmir-Medium by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/medium/
- * 
- * Webfont: Izmir-MediumItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/medium-italic/
- * 
- * Webfont: Izmir-Semibold by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/semibold/
- * 
- * Webfont: Izmir-SemiboldItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/semibold-italic/
- * 
- * Webfont: Izmir-Bold by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/bold/
- * 
- * Webfont: Izmir-BoldItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/bold-italic/
- * 
- * Webfont: Izmir-Extrabold by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extrabold/
- * 
- * Webfont: Izmir-ExtraboldItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/extrabold-italic/
- * 
- * Webfont: Izmir-Heavy by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/heavy/
- * 
- * Webfont: Izmir-HeavyItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/heavy-italic/
- * 
- * Webfont: Izmir-Black by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/black/
- * 
- * Webfont: Izmir-BlackItalic by Ahmet Altun
- * URL: https://www.myfonts.com/fonts/ahmet-altun/izmir/black-italic/
- * 
- * 
- * webFonts copyright: Copyright (c) 2020 by Ahmet Altun. All rights reserved.
- * 
- * © 2020 MyFonts Inc
-*/
-
-
-
 
 @font-face {
     font-family: 'Izmir-HairlineItalic';
@@ -199,6 +115,14 @@
 }
 
 
+.logo {
+    display: flex;
+    justify-content: center;
+
+    img {
+        width: 300px;
+    }
+}
 
 
 .component-signin-card {
