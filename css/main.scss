@@ -340,7 +340,7 @@
         opacity: 0;
 
         &:checked {
-            &+.tick {
+            & + .tick {
                 &::after {
                     width: 11px;
                     height: 9px;
